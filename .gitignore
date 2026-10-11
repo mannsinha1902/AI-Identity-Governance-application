@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+*.db
+*.sqlite
+*.sqlite3
+models/*.joblib
+outputs/
+.streamlit/secrets.toml
+.DS_Store
